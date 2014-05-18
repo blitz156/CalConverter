@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calconvertor.iml" filepath="$PROJECT_DIR$/Calconvertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SideNavigation/SideNavigation.iml" filepath="$PROJECT_DIR$/SideNavigation/SideNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SideNavigation/library/library.iml" filepath="$PROJECT_DIR$/../SideNavigation/library/library.iml" />
+    </modules>
+  </component>
+</project>
+

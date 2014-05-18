@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DarkTheme" parent="@android:style/Theme.Black">
+        <item name="android:buttonStyleToggle">@style/ButtonMenuTheme</item>
+    </style>
+
+    <style name="ButtonMenuTheme" parent="@android:style/Widget">
+        <item name="android:background" >@drawable/button_toggle</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

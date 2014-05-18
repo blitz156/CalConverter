@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+            android:id="@+id/values_item"
+            android:title="Валюта"/>
+    <hide_item
+            android:id="@+id/value_hide_item"
+            android:title="Валюта скрытый"/>
+
+    <item
+            android:id="@+id/mass_item"
+            android:title="Вес и масса"/>
+    <hide_item
+            android:id="@+id/mass_hide_item"
+            android:title="Вес и масса скпытый"/>
+
+    <item
+            android:id="@+id/length_item"
+            android:title="Длина и расстояние"/>
+    <hide_item
+            android:id="@+id/length_hide_item"
+            android:title="Длина и расстояние скрытый"/>
+
+    <item
+            android:id="@+id/volume_item"
+            android:title="Объем и вместимость"/>
+    <hide_item
+            android:id="@+id/volume_hide_item"
+            android:title="Объем и вместимость скрытый"/>
+
+    <item
+            android:id="@+id/temperature_item"
+            android:title="Температура"/>
+    <hide_item
+            android:id="@+id/temperature_hide_item"
+            android:title="Температура скрытый"/>
+
+    <item
+            android:id="@+id/sq_item"
+            android:title="Площадь"/>
+    <hide_item
+            android:id="@+id/sq_hide_item"
+            android:title="Площадь скрытый"/>
+
+    <item
+            android:id="@+id/speed_item"
+            android:title="Скорость"/>
+    <hide_item
+            android:id="@+id/speed_hide_item"
+            android:title="Скорость скрытый"/>
+
+    <item
+            android:id="@+id/settings"
+            android:title="Настройки"/>
+
+</menu>
